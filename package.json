@@ -1,0 +1,14 @@
+{
+  "name": "units-system.js",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "adsk",
+  "devDependencies": {
+    "jest": "29.4.3"
+  }
+}
